@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/monster-contacts/static/css/main.52477d07.chunk.css",
+    "main.js": "/github.io/monster-contacts/static/js/main.d0d29907.chunk.js",
+    "main.js.map": "/github.io/monster-contacts/static/js/main.d0d29907.chunk.js.map",
+    "runtime-main.js": "/github.io/monster-contacts/static/js/runtime-main.81aebd4e.js",
+    "runtime-main.js.map": "/github.io/monster-contacts/static/js/runtime-main.81aebd4e.js.map",
+    "static/js/2.bfe58aa0.chunk.js": "/github.io/monster-contacts/static/js/2.bfe58aa0.chunk.js",
+    "static/js/2.bfe58aa0.chunk.js.map": "/github.io/monster-contacts/static/js/2.bfe58aa0.chunk.js.map",
+    "static/js/3.83a79195.chunk.js": "/github.io/monster-contacts/static/js/3.83a79195.chunk.js",
+    "static/js/3.83a79195.chunk.js.map": "/github.io/monster-contacts/static/js/3.83a79195.chunk.js.map",
+    "index.html": "/github.io/monster-contacts/index.html",
+    "static/css/main.52477d07.chunk.css.map": "/github.io/monster-contacts/static/css/main.52477d07.chunk.css.map",
+    "static/js/2.bfe58aa0.chunk.js.LICENSE.txt": "/github.io/monster-contacts/static/js/2.bfe58aa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81aebd4e.js",
+    "static/js/2.bfe58aa0.chunk.js",
+    "static/css/main.52477d07.chunk.css",
+    "static/js/main.d0d29907.chunk.js"
+  ]
+}
